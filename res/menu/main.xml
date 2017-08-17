@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/today_choose"
+        android:orderInCategory="100"
+        android:title="今天"/>
+    <item 
+        android:id="@+id/specific_day"
+        android:orderInCategory="100"
+        android:title="指定日期"
+        />
+    <item 
+        android:id="@+id/notes_remind"
+        android:orderInCategory="100"
+        android:title="记录/提醒"
+        />
+    <item 
+        android:id="@+id/about"
+        android:orderInCategory="100"
+        android:title="关于"
+        />
+
+</menu>

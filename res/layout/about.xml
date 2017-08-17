@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <TextView 
+        android:id="@+id/about_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="刘伟说:这个是写给严雪梅同学的，日历代表着时间，时间是宝贵的，时间也是一去不复返的，时间也能见证一切，他希望你能珍惜好每一段应该珍惜好的时间。顺便祝你天天开心，生活愉快!"
+        />
+
+    <TextView
+        android:id="@+id/about_photo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/mei_photo" />
+
+</LinearLayout>

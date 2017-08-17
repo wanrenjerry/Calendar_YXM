@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="sunday_saturday_color">#ff0000</color>
+    <color name="border_color">#000000</color>
+    <color name="weekname_color">#000000</color>
+    <color name="day_color">#000000</color>
+    <color name="today_color">#ff0000</color>
+    <color name="todayBackgroundColor">#ff0000</color>
+    <color name="innerGridColor">#000000</color>
+    <color name="othermonth">#9932cc</color>
+</resources>
